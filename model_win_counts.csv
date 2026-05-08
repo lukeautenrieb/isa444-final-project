@@ -1,0 +1,5 @@
+Metric,Winning Model
+MAE,AutoARIMA
+RMSE,AutoARIMA
+MAPE,AutoARIMA
+ME,SeasonalNaive
